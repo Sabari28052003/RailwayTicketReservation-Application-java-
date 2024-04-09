@@ -2,7 +2,7 @@ Railway Ticket Reservation Application
 This is a simple railway ticket reservation application created by R.Sabariguru.
 
 Description
-This application allows users to reserve railway tickets easily. Users can search for available trains, choose their preferred seats, and make reservations hassle-free.
+This application allows users to reserve railway tickets easily. Users can search for available trains, choose their preferred seats, and make reservations hassle-free.Initially there are 1-Upperbirthseats,1-middlebirthseats 1-lowerbirthseats,2-racseats and 2-waitinglist.The user can check the available seats also.
 
 
 Features:
